@@ -1,0 +1,3 @@
+D:/1_my_stm32/smart_servos/cmake-build-debug/CMakeFiles/1_test.elf.dir
+D:/1_my_stm32/smart_servos/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/1_my_stm32/smart_servos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
