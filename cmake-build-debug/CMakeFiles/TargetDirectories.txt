@@ -1,3 +1,0 @@
-E:/1_my_stm32_demo/1_test/cmake-build-debug/CMakeFiles/1_test.elf.dir
-E:/1_my_stm32_demo/1_test/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/1_my_stm32_demo/1_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

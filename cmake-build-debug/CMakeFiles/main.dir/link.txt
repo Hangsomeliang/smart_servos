@@ -1,1 +1,0 @@
-E:\PROGRA~2\STMICR~1\STM32C~1\GCC-AR~1.10-\GCC-AR~1.10\bin\AR10B2~1.EXE -g -Wl,-gc-sections,--print-memory-usage,-Map=E:/1_my_stm32_demo/1_test/cmake-build-debug/1_test.map -mcpu=cortex-m0 -mthumb -mthumb-interwork -T E:/1_my_stm32_demo/1_test/STM32F030F4PX_FLASH.ld CMakeFiles/main.dir/UserApp/main.cpp.obj -o main 
